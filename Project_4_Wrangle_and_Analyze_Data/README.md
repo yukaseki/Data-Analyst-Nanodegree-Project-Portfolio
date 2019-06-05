@@ -10,7 +10,7 @@
 - Image Prediction Files 
 - Twitter Data 
 
-The original data is prepared through `wrangle_act.ipynb`. Wrangling act overview is provided in `wragle_report.pdf`. 
+The original data is prepared through `wrangle_act.ipynb`. Wrangling act overview is provided in `wragle_report.html`. 
 
 **Questions**
 1. Does the dog's rating have positive effect on retweet or favorite counts? By comparing the dogs with higher rating and the retweet and favorite counts of the tweet, analyse if dog ratings has strong corelation with favorite counts and retweet counts. 
