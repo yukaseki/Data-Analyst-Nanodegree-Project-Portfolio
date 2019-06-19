@@ -204,7 +204,7 @@ plt.xlabel(None);
 ![png](output_20_0.png)
 
 
-### Math literacy vs variables of interest (out-of-school study hours, homework hours and highest parental occupational status )
+### Math literacy vs variables of interest (out-of-school study hours, homework hours and study hours with parents)
 
 Out-of-school hours overall does not have any influence over how well students understand math. However, time spent on their homework has an positive liner relationship. It seems that the relations between study hours and math literacy varies in each method types.
 
@@ -439,7 +439,3 @@ plt.xticks(rotation=45);
 
 
 ![png](output_35_0.png)
-
-
-
-! jupyter nbconvert Communicate_Data_Project_Pisa_Part2.ipynb --to slides --post serve --template output_toggle
