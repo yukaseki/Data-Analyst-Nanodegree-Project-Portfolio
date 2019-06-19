@@ -442,6 +442,4 @@ plt.xticks(rotation=45);
 
 
 
-```python
 ! jupyter nbconvert Communicate_Data_Project_Pisa_Part2.ipynb --to slides --post serve --template output_toggle
-```
