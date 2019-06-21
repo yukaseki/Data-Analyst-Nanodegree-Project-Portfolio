@@ -16,4 +16,4 @@ This repository contains a collection of projects made for the Data Analyst Nano
 ### [Project 5 : Communicate Data Findings](https://github.com/yukaseki/Data-Analyst-Nanodegree-Project-Portfolio/tree/master/Project_5_Communicate_Data_Project)
 > In the Part 5 of the course, I have learn to apply sound design and data visualization principles to the data analysis process in order to use analysis and visualizations to tell a story with data. As a final project, I have chosen a dataset and performed an exploratory data analysis using Python. Then, I have created a presentation with explanatory plots that conveys my findings.
 
-![png](data_analyst_nanodegree.pdf)
+
